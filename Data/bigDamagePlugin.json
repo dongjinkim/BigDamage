@@ -2,7 +2,7 @@
   "Author": "Cognito",
   "Name": "Big Damage",
   "Punchline": "A simple damage meter.",
-  "Description": "Real-time damage tracking. /pbigdamage toggles config window",
+  "Description": "Real-time damage-per-second tracking. /pbigdamage toggles config window",
   "InternalName": "bigDamagePlugin",
   "ApplicableVersion": "any",
   "Tags": [
